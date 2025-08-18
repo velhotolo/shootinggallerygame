@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    sodipodi:docname="New document 1"
+    viewBox="0 0 48 48"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <title
+      id="title3641"
+    >Target icon</title
+  >
+  <defs
+      id="defs4"
+    >
+    <filter
+        id="filter3608"
+        inkscape:collect="always"
+        color-interpolation-filters="sRGB"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3610"
+          stdDeviation="7.1090045"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      inkscape:showpageshadow="false"
+      inkscape:zoom="13.1875"
+      borderopacity="1"
+      inkscape:current-layer="layer1"
+      inkscape:cx="24"
+      inkscape:cy="24"
+      borderlayer="true"
+      inkscape:window-maximized="1"
+      showgrid="false"
+      showguides="true"
+      bordercolor="#27f400"
+      inkscape:window-x="-8"
+      inkscape:guide-bbox="true"
+      inkscape:window-y="-8"
+      inkscape:window-width="1440"
+      inkscape:pageopacity="0.0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      inkscape:document-units="px"
+      inkscape:window-height="850"
+      showborder="true"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-611.83 -499.02)"
+    >
+    <g
+        id="g3627"
+        transform="matrix(.063680 0 0 .063680 589.98 484.66)"
+      >
+      <path
+          id="path2830"
+          sodipodi:rx="355.45023"
+          sodipodi:ry="355.45023"
+          style="filter:url(#filter3608);fill-rule:evenodd;fill:#000000"
+          sodipodi:type="arc"
+          d="m949.76 447.87c0 196.31-159.14 355.45-355.45 355.45s-355.45-159.14-355.45-355.45 159.14-355.45 355.45-355.45 355.45 159.14 355.45 355.45z"
+          transform="matrix(1.0117 0 0 1.0117 118.71 149.24)"
+          sodipodi:cy="447.86731"
+          sodipodi:cx="594.31281"
+      />
+      <path
+          id="path2816"
+          sodipodi:rx="355.45023"
+          sodipodi:ry="355.45023"
+          style="fill-rule:evenodd;stroke:#000000;stroke-width:3;fill:#ffffff"
+          sodipodi:type="arc"
+          d="m949.76 447.87c0 196.31-159.14 355.45-355.45 355.45s-355.45-159.14-355.45-355.45 159.14-355.45 355.45-355.45 355.45 159.14 355.45 355.45z"
+          transform="translate(125.69 154.49)"
+          sodipodi:cy="447.86731"
+          sodipodi:cx="594.31281"
+      />
+      <path
+          id="path2818"
+          sodipodi:rx="355.45023"
+          sodipodi:ry="355.45023"
+          style="fill-rule:evenodd;fill:#1a1a1a"
+          sodipodi:type="arc"
+          d="m949.76 447.87c0 196.31-159.14 355.45-355.45 355.45s-355.45-159.14-355.45-355.45 159.14-355.45 355.45-355.45 355.45 159.14 355.45 355.45z"
+          transform="matrix(.86837 0 0 .86837 203.92 213.45)"
+          sodipodi:cy="447.86731"
+          sodipodi:cx="594.31281"
+      />
+      <path
+          id="path2820"
+          sodipodi:rx="355.45023"
+          sodipodi:ry="355.45023"
+          style="fill-rule:evenodd;fill:#ffffff"
+          sodipodi:type="arc"
+          d="m949.76 447.87c0 196.31-159.14 355.45-355.45 355.45s-355.45-159.14-355.45-355.45 159.14-355.45 355.45-355.45 355.45 159.14 355.45 355.45z"
+          transform="matrix(.74871 0 0 .74871 275.03 267.04)"
+          sodipodi:cy="447.86731"
+          sodipodi:cx="594.31281"
+      />
+      <path
+          id="path2822"
+          sodipodi:rx="355.45023"
+          sodipodi:ry="355.45023"
+          style="fill-rule:evenodd;fill:#1a1a1a"
+          sodipodi:type="arc"
+          d="m949.76 447.87c0 196.31-159.14 355.45-355.45 355.45s-355.45-159.14-355.45-355.45 159.14-355.45 355.45-355.45 355.45 159.14 355.45 355.45z"
+          transform="matrix(.60110 0 0 .60110 362.76 333.15)"
+          sodipodi:cy="447.86731"
+          sodipodi:cx="594.31281"
+      />
+      <path
+          id="path2824"
+          sodipodi:rx="355.45023"
+          sodipodi:ry="355.45023"
+          style="fill-rule:evenodd;fill:#ffffff"
+          sodipodi:type="arc"
+          d="m949.76 447.87c0 196.31-159.14 355.45-355.45 355.45s-355.45-159.14-355.45-355.45 159.14-355.45 355.45-355.45 355.45 159.14 355.45 355.45z"
+          transform="matrix(.47747 0 0 .47747 436.23 388.52)"
+          sodipodi:cy="447.86731"
+          sodipodi:cx="594.31281"
+      />
+      <path
+          id="path2826"
+          sodipodi:rx="355.45023"
+          sodipodi:ry="355.45023"
+          style="fill-rule:evenodd;fill:#d40000"
+          sodipodi:type="arc"
+          d="m949.76 447.87c0 196.31-159.14 355.45-355.45 355.45s-355.45-159.14-355.45-355.45 159.14-355.45 355.45-355.45 355.45 159.14 355.45 355.45z"
+          transform="matrix(.33786 0 0 .33786 519.2 451.04)"
+          sodipodi:cy="447.86731"
+          sodipodi:cx="594.31281"
+      />
+      <path
+          id="path3612"
+          d="m719.43 95.261v708.49"
+          style="stroke:#000000;stroke-width:6;fill:none"
+          transform="translate(0 152.36)"
+      />
+      <path
+          id="path3614"
+          style="stroke:#000000;stroke-width:6;fill:none"
+          d="m365.18 601.87h708.49"
+      />
+      <path
+          id="path3616"
+          sodipodi:rx="355.45023"
+          sodipodi:ry="355.45023"
+          style="stroke:#000000;stroke-width:27.151;fill:none"
+          sodipodi:type="arc"
+          d="m949.76 447.87c0 196.31-159.14 355.45-355.45 355.45s-355.45-159.14-355.45-355.45 159.14-355.45 355.45-355.45 355.45 159.14 355.45 355.45z"
+          transform="matrix(.22099 0 0 .22099 588.66 503.39)"
+          sodipodi:cy="447.86731"
+          sodipodi:cx="594.31281"
+      />
+      <path
+          id="path3618"
+          sodipodi:rx="355.45023"
+          sodipodi:ry="355.45023"
+          style="stroke:#000000;stroke-width:68.074;fill:none"
+          sodipodi:type="arc"
+          d="m949.76 447.87c0 196.31-159.14 355.45-355.45 355.45s-355.45-159.14-355.45-355.45 159.14-355.45 355.45-355.45 355.45 159.14 355.45 355.45z"
+          transform="matrix(.088139 0 0 .088139 667.62 562.89)"
+          sodipodi:cy="447.86731"
+          sodipodi:cx="594.31281"
+      />
+      <path
+          id="path3622"
+          d="m720 94.562c-190.64 0-346.24 150.07-355.06 338.53 235.63-82.13 472.12-97.442 710.03-1.7812-9.8-187.62-164.96-336.75-355-336.75z"
+          style="opacity:0.29;fill-rule:evenodd;fill:#ffffff"
+          transform="translate(0 152.36)"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Target icon</dc:title
+        >
+        <dc:date
+          >2010-03-07T19:44:44</dc:date
+        >
+        <dc:description
+          >A target icon</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/30103/target-icon-by-usiiik</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >usiiik</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >black</rdf:li
+            >
+            <rdf:li
+              >icon</rdf:li
+            >
+            <rdf:li
+              >red</rdf:li
+            >
+            <rdf:li
+              >target</rdf:li
+            >
+            <rdf:li
+              >white</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
